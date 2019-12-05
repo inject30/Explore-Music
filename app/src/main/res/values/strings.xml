@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">PlayTube</string>
+
+    <string name="music_not_found_title">Music files not found!</string>
+    <string name="music_not_found_content">Please add music files to your device to start exploring the recommendations.</string>
+    <string name="ok">OK</string>
+
+    <string name="loading_recommendations_title">Loading recommendations for you</string>
+    <string name="loading_recommendations_content">Please wait...</string>
+
+    <string name="charts">Charts</string>
+    <string name="top_tracks">Top tracks</string>
+    <string name="top_tags">Top tags</string>
+    <string name="top_artists">Top artists</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="local_top_tracks">Local top tracks</string>
+    <string name="local_top_artists">Local top artists</string>
+    <string name="worldwide_charts">Worldwide charts</string>
+    <string name="local_charts">Local charts</string>
+
+    <string name="tab_tracks">Tracks</string>
+    <string name="tab_albums">Albums</string>
+    <string name="tab_similar">Similar</string>
+    <string name="tab_artists">Artists</string>
+
+    <string name="search_video_dialog_title">Searching video</string>
+    <string name="search_video_dialog_content">Searching video. Please wait&#8230;</string>
+
+    <string name="search_hint">Search music</string>
+
+    <string name="network_error">Error receiving data from server</string>
+    <string name="click_to_retry">Click to retry</string>
+
+    <string name="artists_not_found">Artists not found</string>
+    <string name="tags_not_found">Tags not found</string>
+    <string name="tracks_not_found">Tracks not found</string>
+    <string name="albums_not_found">Albums not found</string>
+    <string name="similar_artists_not_found">Similar artists not found</string>
+
+    <string name="youtube_error_dialog_title">YouTube error</string>
+    <string name="youtube_error_dialog_content">To view this video on your device must be installed the latest version of YouTube application!</string>
+    <string name="install">Install</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="video_not_found">Video not found!</string>
+
+    <string name="rate_title">Rate SoundTube</string>
+    <string name="rate_content">If you like <b>PlayTube</b>, please take a moment to rate it on Google Play Store. It won\'t take more than a minute. Thank you
+        for your support!
+    </string>
+    <string name="rate_now">Rate now</string>
+    <string name="remind_me_later">Remind me later</string>
+    <string name="no_thanks">Do not ask again</string>
+    <string name="todo">TODO</string>
+</resources>
