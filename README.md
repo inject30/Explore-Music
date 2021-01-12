@@ -6,7 +6,7 @@ This project was created in 2017 for discovering for new movies, tv shows and ce
 
 <img src="https://github.com/inject30/Playtube/blob/master/screens/1.png" width="360" height="640">
 <img src="https://github.com/inject30/Playtube/blob/master/screens/2.png" width="360" height="640">
-<img src="https://github.com/inject30/v/blob/master/screens/3.png" width="360" height="640">
+<img src="https://github.com/inject30/Playtube/blob/master/screens/3.png" width="360" height="640">
 <img src="https://github.com/inject30/Playtube/blob/master/screens/4.png" width="360" height="640">
 
 ### Features
