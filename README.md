@@ -1,4 +1,4 @@
-# Movies & TV Shows
+# Explore Music
 
 This project was created in 2017 for discovering for new movies, tv shows and celebrities.You can read detailed information about movie or tv show, view its ratings or watch trailers. The API was used by themoviedb.org. This project is no longer in active development.
 
